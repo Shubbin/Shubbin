@@ -1,10 +1,10 @@
 
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Makinde+Olasubomi;Software+Engineer+%7C+Fullstack+Dev+%7C+ML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubbin;Software+Engineer+%" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A Software Engineer from Nigeria 🇳🇬</h3>
+<h3 align="center">A Passionate Software Engineer from Nigeria 🇳🇬</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubbin&label=Profile%20views&color=0e75b6&style=flat" alt="shubbin" />
