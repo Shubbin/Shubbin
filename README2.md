@@ -47,7 +47,7 @@
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect with me
 
 <p align="center">
   <a href="https://twitter.com/shubbin23" target="_blank">
