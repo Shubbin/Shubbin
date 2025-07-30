@@ -55,7 +55,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Fullstack%20Web%20Development-Udemy-blue?style=for-the-badge&logo=Udemy" />
   <img src="https://img.shields.io/badge/Java%20Programming-Coursera-green?style=for-the-badge&logo=Coursera" />
-  <img src="https://img.shields.io/badge/AI%20Foundations-IBM-blue?style=for-the-badge&logo=IBM" />
   <img src="https://img.shields.io/badge/Cloud%20Development-FreeCodeCamp-purple?style=for-the-badge&logo=freecodecamp" />
 </p>
 
