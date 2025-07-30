@@ -1,4 +1,9 @@
-<!-- Classy Header -->
+<!-- 🌐 Hero Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shubbin/assets/main/banner.svg" alt="Shubbin Banner" width="100%" />
+</p>
+
+<!-- Typing Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shubbin;Software+Engineer+%7C+Backend+Focused+%7C+Product-Driven" alt="Typing SVG" />
 </h1>
@@ -15,8 +20,8 @@
 
 - 🔐 **CrimeWatch** – Real-time crime tracking and analytics system  
 - ⚙️ Architected and deployed full-stack apps using React, Node.js, Firebase  
-- 🧠 Self-trained in high-demand technologies including **ML**, **Cloud**, **Mobile**  
 - 💼 Freelanced and collaborated on SaaS and mobile-first products across domains  
+- 🧠 Self-trained in high-demand technologies including **ML**, **Cloud**, **Mobile**  
 - 🛠️ Contributed to open-source, automation tools, and cross-platform libraries  
 
 <p align="center">
@@ -44,29 +49,50 @@
 | **Java**              | ███████     7/10 |
 | **Kotlin**            | ███████     7/10 |
 
-> _Self-assessed based on project depth, production deployment, and architectural knowledge._
+> _Self-evaluated based on project impact and production experience._
 
 ---
 
-### 🔍 Focus Areas
+### 📚 Certifications & Badges
 
-- 🧩 **Backend Engineering** — REST APIs, Authentication, Microservices  
-- 📱 **Mobile Development** — Cross-platform apps using React Native & Firebase  
-- 🌐 **Frontend Engineering** — Reusable UI components, Animations, UX logic  
-- 🔍 **AI/ML** — Exploring PyTorch & vision-based model deployment  
-- ☁️ **Cloud & DevOps** — Firebase, CI/CD, version control best practices  
+<p align="center">
+  <img src="https://img.shields.io/badge/Fullstack%20Web%20Development-Udemy-blue?style=for-the-badge&logo=Udemy" />
+  <img src="https://img.shields.io/badge/Java%20Programming-Coursera-green?style=for-the-badge&logo=Coursera" />
+  <img src="https://img.shields.io/badge/AI%20Foundations-IBM-blue?style=for-the-badge&logo=IBM" />
+  <img src="https://img.shields.io/badge/Cloud%20Development-FreeCodeCamp-purple?style=for-the-badge&logo=freecodecamp" />
+</p>
+
+> *Verifiable links available upon request or on LinkedIn.*
+
+---
+
+### 🧠 Focus Areas
+
+- **Backend Systems** — Authentication, APIs, Realtime Services  
+- **Frontend Experience** — Interactive dashboards & mobile UI logic  
+- **Mobile Apps** — React Native, Firebase, cross-platform deployment  
+- **ML/AI** — Currently exploring PyTorch & TensorFlow applications  
+- **DevOps** — Version control, CI/CD, Firebase hosting, Docker basics
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubbin&show_icons=true&theme=radical&count_private=true&hide_rank=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubbin&show_icons=true&theme=radical&count_private=true" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubbin&theme=radical" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubbin&layout=compact&theme=radical" />
 </p>
+
+---
+
+### 🗂 Portfolio & Blog
+
+- 🌐 [**shubbin.dev**](https://shubbin.dev) – *Personal portfolio & contact*  
+- 📝 [**Blog**](https://blog.shubbin.dev) – *Coming soon: Deep dives, dev notes, tutorials*  
+- 💡 [**GitHub Projects**](https://github.com/Shubbin?tab=repositories)
 
 ---
 
@@ -85,9 +111,10 @@
 
 ### 💼 Projects
 
-- 🔍 [**CrimeWatch**](https://github.com/Shubbin/CrimeWatch.git) — Crime detection & analytics dashboard  
-- 📊 **Police Dashboard** — React + Tailwind + Chart.js-based criminal record management  
-- 🛠️ More coming soon on [my GitHub](https://github.com/Shubbin)
+- 🔍 [**CrimeWatch**](https://github.com/Shubbin/CrimeWatch.git) – Real-time crime reporting platform  
+- 📊 **Police Dashboard** – Criminal record analytics with Chart.js  
+- 🔧 **ValueWorth** – Full-stack real estate SaaS (private repo)  
+- 🛠️ More on [**GitHub Repositories**](https://github.com/Shubbin)
 
 ---
 
