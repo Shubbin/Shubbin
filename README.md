@@ -1,7 +1,4 @@
-<!-- 🌐 Hero Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shubbin/assets/main/banner.svg" alt="Shubbin Banner" width="100%" />
-</p>
+
 
 <!-- Typing Header -->
 <h1 align="center">
