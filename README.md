@@ -1,5 +1,3 @@
-
-
 <!-- Typing Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shubbin;Software+Engineer+%7C+Backend+Focused+%7C+Product-Driven" alt="Typing SVG" />
@@ -47,6 +45,19 @@
 | **Kotlin**            | ███████     7/10 |
 
 > _Self-evaluated based on project impact and production experience._
+
+---
+
+### 🎓 Education
+
+| Institution                                                                 | Program / Qualification                      | Year             |
+|------------------------------------------------------------------------------|-----------------------------------------------|------------------|
+| **Lagos State Polytechnic**                                                 | **Diploma in Computer Science**               | ✅ Completed      |
+| **Lagos State University of Science and Technology (LASUSTECH)**            | **B.Sc. in Computer Science** *(Ongoing)*     | 📚 2023 – Present |
+| **Independent Platforms (Udemy, Coursera, FCC, YouTube)**                   | Backend Dev, Cloud, Mobile Dev, ML            | 🧠 Continuously   |
+
+> *Grounded in formal academia, sharpened by continuous self-learning and practical experience.*  
+> *Active member of student tech circles, campus hackathons, and collaborative open-source sprints.*
 
 ---
 
