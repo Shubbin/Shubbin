@@ -97,7 +97,7 @@
 
 ### 🗂 Portfolio & Blog
 
-- 🌐 [**shubbin.dev**](https://shubbin.dev) – *Personal portfolio & contact*  
+- 🌐 [**makinde olasubomi portfolio**](https://makinde-portfolio.vercel.app/) – *Personal portfolio & contact*  
 - 📝 [**Blog**](https://blog.shubbin.dev) – *Coming soon: Deep dives, dev notes, tutorials*  
 - 💡 [**GitHub Projects**](https://github.com/Shubbin?tab=repositories)
 
